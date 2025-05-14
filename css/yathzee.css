@@ -1,0 +1,29 @@
+#dice1, #dice2, #dice3, #dice4, #dice5, #dice6{
+    font-size: 90px;
+}
+
+#roll{
+    font-size: 20px;
+    height: 35px;
+    width: 90px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    width: 280px;
+}
+  
+
+table{
+  position: absolute;
+  top: 50px;
+  right: 0;
+  width: 600px;
+  height: 700px;
+  border: 3px solid #000000;
+   
+}
+
